@@ -1,4 +1,3 @@
-packer-templates
-================
+The used scripts and templates are partially based on the [Bento](https://github.com/opscode/bento/) and the [Box-Cutter](https://github.com/box-cutter) project.
 
-Packer Templates
+Generated [Vagrant](http://www.vagrantup.com/) boxes are available on the [Vagrant Cloud](https://vagrantcloud.com/b1-systems).
